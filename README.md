@@ -1,2 +1,2 @@
-# Java-Swing-Restaurant-Ordering-App
-Java Swing GUI Restaurant-Ordering-App
+# Java-Swing-Restaurant-Management-System
+Java Swing GUI Restaurant-Management-System
